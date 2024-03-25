@@ -36,7 +36,7 @@ header {
 .logo a{
     font-size: 28px;
     letter-spacing: 2px;
-    font-weight: bold
+    font-weight: bold;
     color: #333;
     font-family: system-ui;
 }
